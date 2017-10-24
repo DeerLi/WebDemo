@@ -1,2 +1,3 @@
-# WebDemo
-Live video streaming transcoding demo application
+# Live Video Streaming Transcoding Demo Application
+
+
